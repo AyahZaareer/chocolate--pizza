@@ -1,29 +1,17 @@
 .st1{ margin-left:400px; margin-right: 369px; }
-
 section{ display: block;}
-
 h4 img{ width: 20px;}
-#logo{display:block; float: right; color: gray; padding-top: 25px;}
-
+#logo{display:block; float: right; color: gray; padding-top: 25px; margin-right: 125px;}
 h1 {font: weight bolder;; font-size: 40px; font-family: 'Barlow Semi Condensed', sans-serif; }
-
 h3{color: grey; font-family: 'VT323', monospace; font-size: 14px; margin-top: -30px;}
-
-p{margin-left: 0px; color: gray; text-indent: 30px;}
-
+p{margin-left: 0px; color: gray; text-indent: 30px;margin-right: 107px;}
 article{ width: 75%; float: left; }
-
 article h4{padding: 4px 0px 0px 0px; margin: 0px 0px 0px 0px; padding-left: 31px;  margin-left: 19px;margin-right: 52px; padding-top: 6px;  padding-right: 42px;}
 #lady{float: left; margin-right: 0px;
     margin-left: 0px; width: 70px; height: 50px; border-radius: 50%; } 
-
-article p{padding: 4px 0px 0px 0px; text-indent: 0px; font-size: 19px; display: inline-block;  text-align: justify; margin: -22px 0px 0px 66px;}
+article p{padding: 4px 0px 0px 0px; text-indent: 0px; font-size: 23px; display: inline-block;  text-align: justify; margin: -22px 0px 0px 66px;}
 article{padding: 4px 0px 56px 0px;}
-
-button{width: 22%;  float: right;  background-color: #b0544d;  color: white; font-size: 15px;   padding: 15px 40px; margin-top: 80px;}
- footer p {text-align: center; color: gray;}
-
- #st2{color: #b7bfae; margin-left:365px; margin-right: 369px;}
- 
-
+button{width: 22%;  margin-right: 19px; float: right;  background-color: #B0544D;  color: white; font-size: 15px;   padding: 15px 40px; margin-top: 80px;}
+ footer p {text-align: center; color: gray; }
+ #st2{color: #B7BFAE; margin-left:365px; margin-right: 514px;}
  #footerpic{ margin: -25px 0px 0px -82px; height: 40px; width: 40px; position:absolute; z-index: +1; padding: 20px 0px 0px 100px;}
